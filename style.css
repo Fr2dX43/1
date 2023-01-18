@@ -1,0 +1,8 @@
+P {
+    color:blueviolet;
+    background-color: aqua;
+} 
+
+#secretMessage {
+    display: none;
+}
